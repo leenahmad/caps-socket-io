@@ -83,5 +83,6 @@ And as developers, here is our updated story relevant to the above.
 ----------
 
 
-- [pull link]()
-- [action link]()
+- [pull link](https://github.com/leenahmad/caps-socket-io/pull/1)
+- [action link](https://github.com/leenahmad/caps-socket-io/actions)
+
